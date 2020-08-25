@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.postimg.cc/nVqD0qz4/atomnew-1.png" alt="I'm Estiwar!" />
+<img src="https://i.postimg.cc/1zWgVKvS/atom1.png" alt="I'm Estiwar!" />
 </p>
 
 <h1 align="center">Hi, I´m Jhon Estiwar Rodríguez :computer: </h1>
