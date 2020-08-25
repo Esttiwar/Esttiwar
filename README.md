@@ -6,4 +6,4 @@
 
 - 🔭 I’m currently working on be a Front-End developer
 - 🌱 I’m currently learning HTML-CSS-JavaScript
-- 📫 How to reach me: https://twitter.com/Jhon_esti
+
