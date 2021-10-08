@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I´m Jhon Estiwar Rodríguez :computer: </h1>
 
 - 🔭 I’m currently working on be a Front-End developer
-- 🌱 I’m currently learning HTML-CSS-JavaScript
+
 
 <!-- 
 https://i.postimg.cc/nVqD0qz4/atomnew-1.png
